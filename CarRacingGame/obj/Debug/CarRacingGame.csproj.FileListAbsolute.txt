@@ -1,0 +1,11 @@
+D:\OU\WinForm\Test\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.exe.config
+D:\OU\WinForm\Test\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.exe
+D:\OU\WinForm\Test\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.pdb
+D:\OU\WinForm\Test\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.AssemblyReference.cache
+D:\OU\WinForm\Test\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.SuggestedBindingRedirects.cache
+D:\OU\WinForm\Test\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.Form1.resources
+D:\OU\WinForm\Test\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.Properties.Resources.resources
+D:\OU\WinForm\Test\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.GenerateResource.cache
+D:\OU\WinForm\Test\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.CoreCompileInputs.cache
+D:\OU\WinForm\Test\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.exe
+D:\OU\WinForm\Test\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.pdb
